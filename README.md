@@ -1,2 +1,4 @@
 # hello-world
-This repository is to learn how repository works.
+
+heloo world program to create and not to feel
+helllloooo world
